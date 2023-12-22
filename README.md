@@ -2,11 +2,13 @@
 <h3 align="center">Economics & Computer Science student at McMasterU</h3>
 <img align="right" alt= "Spiderman" Width = "400" src= "https://i.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif">
 
-- 🌱 I’m currently learning **React.js, Node.js, Azure, Hadoop, Java, Swift, PyTorch, Pandas**
+- 🌱 I’m currently learning *AI & NLP**
 
-- 👯 I’m looking to collaborate on **Any full stack projects**
+- 👯 I’m looking to collaborate on **Any AI, ML, NLP projects**
 
-- 👨‍💻 My main project is available at [https://devpost.com/software/reach-rbc](https://devpost.com/software/reach-rbc)
+- 👨‍💻 My main project is available [here](https://devpost.com/software/reach-rbc)
+
+- 🐼 My website is available [here](https://kaanpamukcuportfolio.vercel.app/)
 
 - 📫 How to reach me **alpikaan.pamukcu@gmail.com**
 
