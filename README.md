@@ -2,7 +2,7 @@
 <h3 align="center">Economics & Computer Science student at McMasterU</h3>
 <img align="right" alt= "Spiderman" Width = "400" src= "https://i.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif">
 
-- 🌱 I’m currently learning *AI & NLP**
+- 🌱 I’m currently learning AI & NLP
 
 - 👯 I’m looking to collaborate on **Any AI, ML, NLP projects**
 
