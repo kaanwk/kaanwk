@@ -8,7 +8,7 @@
 
 - 👨‍💻 My main project is available [here](https://devpost.com/software/reach-rbc)
 
-- 🐼 My website is available [here](https://kaanpamukcuportfolio.vercel.app/)
+- 🐼 My website is available [here](https:kaanp.space)
 
 - 📫 How to reach me **alpikaan.pamukcu@gmail.com**
 
