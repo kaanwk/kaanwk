@@ -2,6 +2,10 @@
 <h3 align="center">Economics & Computer Science @ McMaster Alumni</h3>
 <img align="right" alt= "Spiderman" Width = "400" src= "https://i.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif">
 
+- 🛒 I work at Shopify
+
+- 🍁 I live in Toronto, Canada
+
 - 🐼 My website is available [here](https:kaanp.xyz)
 
 - 📫 How to reach me **alpikaan.pamukcu@gmail.com**
