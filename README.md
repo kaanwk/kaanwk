@@ -1,14 +1,8 @@
 <h1 align="center">Hi!, I'm Kaan Pamukcu</h1>
-<h3 align="center">Economics & Computer Science student at McMasterU</h3>
+<h3 align="center">Economics & Computer Science @ McMaster Alumni</h3>
 <img align="right" alt= "Spiderman" Width = "400" src= "https://i.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif">
 
-- 🌱 I’m currently learning AI & NLP
-
-- 👯 I’m looking to collaborate on **Any AI, ML, NLP projects**
-
-- 👨‍💻 My main project is available [here](https://devpost.com/software/reach-rbc)
-
-- 🐼 My website is available [here](https:kaanp.space)
+- 🐼 My website is available [here](https:kaanp.xyz)
 
 - 📫 How to reach me **alpikaan.pamukcu@gmail.com**
 
